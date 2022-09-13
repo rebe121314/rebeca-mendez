@@ -23,7 +23,7 @@ Starting from the basics it's easist:
 
 > "Not knowing anything is the sweetest life"
 
-**Sophocles **
+**Sophocles**
 
 Welp, that quotes applies to me. I used to thing I knew myself, but it's not surprised to anyone else,but to me in the past, that in fact I know nothing.
 
@@ -33,7 +33,9 @@ Soo, for the sake of accuracy (or at least minimizing the cringines in the futur
 ["You Will Never Do Anything Remarkable"](https://www.youtube.com/watch?v=vmIUvp0e1bw)
 
 
-Have a great day, 
+Have a great day,
+
+
 ![Thanks](https://media.giphy.com/media/xULW8v7LtZrgcaGvC0/giphy.gif)
 
-## ??
+## Bye :D
