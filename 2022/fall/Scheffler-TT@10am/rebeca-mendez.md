@@ -1,4 +1,4 @@
-#Rebeca's whimsical Bio :)
+# Rebeca's whimsical Bio :)
 
 ![Welcome](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
@@ -22,12 +22,10 @@ Starting from the basics it's easist:
 
 
 > "Not knowing anything is the sweetest life"
-- **Sophocles **
+      **Sophocles **
 
 Welp, that quotes applies to me. I used to thing I knew myself, but it's not surprised to anyone else,but to me in the past, that in fact I know nothing.
 
-
-##??
 
 Soo, for the sake of accuracy (or at least minimizing the cringines in the future when I see this agin) I'll stop here. But I'll leave one of my favorite "*excistencial*"/*identity* videos.
 
@@ -35,3 +33,5 @@ Soo, for the sake of accuracy (or at least minimizing the cringines in the futur
 
 
 ![Thanks](https://media.giphy.com/media/xULW8v7LtZrgcaGvC0/giphy.gif)
+
+## ??
