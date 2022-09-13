@@ -1,4 +1,4 @@
-# Rebeca's whimsical Bio :)
+# Rebeca's whimsical Bio :) :sparkles:
 
 ![Welcome](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
